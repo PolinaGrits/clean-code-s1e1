@@ -40,7 +40,9 @@ body {
   padding: 0px;
 }
 
-.add__button, .edit, .delete {
+.add__button, 
+.edit, 
+.delete {
   background: none;
   border: 0px;
   color: #888;
@@ -50,7 +52,9 @@ body {
   cursor: pointer;
   outline:none;
 }
-.add__button:hover, .edit:hover, .delete:hover {
+.add__button:hover, 
+.edit:hover,
+.delete:hover {
   color: #3a3a3a;
 }
 /* Heading */
@@ -122,7 +126,7 @@ body {
 }
 
 /* Completed */
-ul#completed-tasks label {
+.item__complited {
   text-decoration: line-through;
   color: #888;
 }
