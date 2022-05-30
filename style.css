@@ -36,7 +36,7 @@ body {
   display: flex;
 }
 .ul-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
@@ -55,7 +55,7 @@ body {
 }
 /* Heading */
 .section__heading {
-  list-style:none;
+  list-style: none;
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -94,7 +94,7 @@ body {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-  list-style:none;
+  list-style: none;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -129,10 +129,10 @@ ul#completed-tasks label {
 
 /* Edit Task */
 .input-none {
-  display:none
+  display: none
 }
 
 .input-edit{
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
